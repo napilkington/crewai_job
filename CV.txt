@@ -1,0 +1,103 @@
+NATALIE PILKINGTON GONZÁLEZ
+AI Agentic Engineer | Multi-Agent Systems | Responsible AI | Machine Learning
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+AI specialist, bilingual in English-Spanish, with hands-on experience in the 
+development of Generative AI and Agentic Industry Solutions, with a strong 
+focus on the principles of Responsible AI. Large Language Models (LLMs) 
+Developer and AI Agentic Engineer, holding a Master's degree in Artificial 
+Intelligence and Big Data (2025) and a Degree in Software Development (2024).
+
+Possessing practical experience in the development and implementation of LLMs, 
+Gen AI solutions, as well as Machine Learning applications, and a strong 
+commitment to the principles and implementation of Responsible AI. Eager to 
+contribute to innovative projects and leverage a solid academic foundation 
+combined with hands-on experience in cutting-edge AI technologies.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Programming Languages:
+  • Python
+
+Agentic Frameworks:
+  • LangGraph, Langchain, CrewAI, Swarm Builder, AI Refinery
+
+AI/LLM Skills:
+  • Prompting, RAG, MCP
+
+Machine Learning & Deep Learning:
+  • PyTorch, TensorFlow, MLFlow
+
+Cloud Platforms:
+  • AWS, Azure
+
+Version Control:
+  • Git, Github
+
+================================================================================
+AREAS OF EXPERTISE
+================================================================================
+
+  • Multi-Agent Systems & AI Orchestration (LangGraph, Swarm Builder, 
+    AI Refinery)
+  • Large Language Models (BERT, GPT-based architectures, RAG, LangChain)
+  • Agentic Workflows: Code Generation, Testing Automation, Technical Design, 
+    Documentation Agents
+  • Machine Learning & Deep Learning (TensorFlow, PyTorch, NLP, CV)
+  • MLOps & Deployment (MLFlow, AWS Sagemaker, Azure AI Foundry, CI/CD)
+  • Cloud Platforms: AWS, Azure, Docker, Kubernetes
+  • Responsible AI & Ethical AI Practices
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Agentic AI Engineer | AlexandrIA Innovation Hub
+June - October 2025
+
+Contributed to the development of multi-agent swarm solutions for a Minimum 
+Viable Product (MVP) project with Riu. These solutions were built on 
+Accenture's state-of-the-art Swarm Builder platform and included Front & 
+Back-end swarms of agents for code/documentation generation.
+
+Contributed to the Back-end development of the "Talent Finder" Alexia, an 
+internal tool consisting of an AI agent implemented with LangGraph designed 
+for the Alexandria Request team with the objective of identifying developers 
+based on their technical skills, experience levels, and availability.
+
+
+Agentic AI Engineer | AlexandrIA Innovation Hub
+July - August 2025
+
+Contributed to the Back-end development and deployment of a large language 
+model (LLM) for the "Constitutions" Proof of Concept (POC) project, engineered 
+to detect toxicity in user queries for AI-powered agents, directly supporting 
+the firm's Responsible AI (RAI) initiatives.
+
+
+Machine Learning Developer | AlexandrIA Innovation Hub
+March - June 2025
+
+[Role details to be expanded based on additional information]
+
+================================================================================
+EDUCATION & CERTIFICATIONS
+================================================================================
+
+  • Master's Degree in Artificial Intelligence & Big Data (2025)
+  • Degree in Software Development (2024)
+  • C2 Proficiency in English
+
+================================================================================
+LANGUAGES
+================================================================================
+
+  • English: C2 Proficiency (Bilingual)
+  • Spanish: Native/Bilingual
+
+================================================================================

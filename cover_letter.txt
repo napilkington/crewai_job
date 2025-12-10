@@ -1,0 +1,77 @@
+NATALIE PILKINGTON GONZÁLEZ
+AI Agentic Engineer | Multi-Agent Systems Specialist
+
+================================================================================
+
+[Date]
+
+[Hiring Manager's Name]
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in joining your organization as an 
+AI Agentic Engineer. As a bilingual AI specialist with a Master's degree in 
+Artificial Intelligence and Big Data and a degree in Software Development, I 
+bring a unique combination of academic excellence and hands-on experience in 
+developing cutting-edge Generative AI and Multi-Agent Systems solutions.
+
+My recent experience at AlexandrIA Innovation Hub has provided me with 
+extensive exposure to real-world AI engineering challenges. I have successfully 
+contributed to the development of multi-agent swarm solutions using Accenture's 
+state-of-the-art Swarm Builder platform, creating both front-end and back-end 
+swarms of agents for code and documentation generation. This work involved 
+close collaboration with cross-functional teams and resulted in a successful 
+Minimum Viable Product deployment for a client project.
+
+One of my most rewarding projects was developing the "Talent Finder" Alexia, 
+an AI agent built with LangGraph that intelligently matches developers based on 
+their technical skills, experience levels, and availability. This project 
+showcased my ability to translate business requirements into functional AI 
+solutions while maintaining optimal performance and user experience.
+
+My commitment to Responsible AI is demonstrated through my work on the 
+"Constitutions" Proof of Concept project, where I developed and deployed a 
+large language model specifically engineered to detect toxicity in user queries. 
+This initiative directly supported ethical AI practices and ensured safe, 
+responsible deployment of AI-powered agents.
+
+I am particularly skilled in:
+
+  • Developing and orchestrating multi-agent systems using LangGraph, 
+    LangChain, CrewAI, and proprietary frameworks
+  • Implementing large language models with advanced techniques such as RAG 
+    and prompt engineering
+  • Building MLOps pipelines with MLFlow, AWS Sagemaker, and Azure AI Foundry
+  • Ensuring AI solutions adhere to Responsible AI principles and ethical 
+    guidelines
+
+As a C2-level English speaker fluent in both English and Spanish, I bring 
+strong communication skills that enable me to collaborate effectively with 
+diverse, international teams and clearly articulate complex technical concepts 
+to both technical and non-technical stakeholders.
+
+I am passionate about pushing the boundaries of what AI can achieve while 
+maintaining a strong ethical framework. I am eager to bring my expertise in 
+agentic AI, multi-agent systems, and responsible AI practices to your 
+organization and contribute to innovative projects that make a meaningful 
+impact.
+
+I would welcome the opportunity to discuss how my background, skills, and 
+enthusiasm align with your team's goals. Thank you for considering my 
+application. I look forward to the possibility of contributing to your 
+organization's AI initiatives.
+
+Sincerely,
+
+N. Pilkington González
+
+================================================================================
+
+Contact Information:
+[Email Address]
+[Phone Number]
+[LinkedIn Profile]
+[GitHub Profile]

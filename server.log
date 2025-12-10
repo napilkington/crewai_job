@@ -1,0 +1,50 @@
+nohup: ignoring input
+
+================================================================================
+🚀 CrewAI Job Processing Server
+================================================================================
+
+📡 Server starting on http://localhost:5000
+
+✅ Ready to receive jobs from browser extension!
+
+💡 Make sure to:
+   1. Install the browser extension
+   2. Navigate to a LinkedIn job posting
+   3. Click the extension icon and 'Extract & Process Job'
+
+================================================================================
+
+ * Serving Flask app 'server'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.42:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-122-133
+127.0.0.1 - - [01/Dec/2025 21:52:03] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [01/Dec/2025 21:52:08] "[33mGET / HTTP/1.1[0m" 404 -
+ * Detected change in '/home/nataliepilkington/crewai-job/test_extension.py', reloading
+
+================================================================================
+🚀 CrewAI Job Processing Server
+================================================================================
+
+📡 Server starting on http://localhost:5000
+
+✅ Ready to receive jobs from browser extension!
+
+💡 Make sure to:
+   1. Install the browser extension
+   2. Navigate to a LinkedIn job posting
+   3. Click the extension icon and 'Extract & Process Job'
+
+================================================================================
+
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 141-122-133
+127.0.0.1 - - [01/Dec/2025 21:52:52] "POST /process-job HTTP/1.1" 200 -
