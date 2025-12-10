@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      width: 350px;
+      padding: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      margin: 0;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      padding: 20px;
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    }
+    h1 {
+      margin: 0 0 15px 0;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .status {
+      background: rgba(255, 255, 255, 0.2);
+      padding: 12px;
+      border-radius: 8px;
+      margin: 15px 0;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    button {
+      width: 100%;
+      padding: 14px;
+      background: white;
+      color: #667eea;
+      border: none;
+      border-radius: 8px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    }
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+    .info {
+      margin-top: 15px;
+      font-size: 12px;
+      opacity: 0.9;
+      line-height: 1.6;
+    }
+    .settings {
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .settings label {
+      display: block;
+      font-size: 12px;
+      margin-bottom: 5px;
+      opacity: 0.9;
+    }
+    .settings input {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.1);
+      color: white;
+      font-size: 13px;
+      box-sizing: border-box;
+    }
+    .settings input::placeholder {
+      color: rgba(255, 255, 255, 0.5);
+    }
+    .success {
+      background: rgba(76, 175, 80, 0.3);
+    }
+    .error {
+      background: rgba(244, 67, 54, 0.3);
+    }
+    .loading {
+      background: rgba(33, 150, 243, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🤖 CrewAI Job Processor</h1>
+    
+    <div class="status" id="status">
+      Ready to extract job posting
+    </div>
+    
+    <button id="extractBtn">Extract & Process Job</button>
+    
+    <div class="settings">
+      <label for="serverUrl">Local Server URL:</label>
+      <input type="text" id="serverUrl" placeholder="http://localhost:5000" value="http://localhost:5000">
+    </div>
+    
+    <div class="info">
+      <strong>How to use:</strong><br>
+      1. Navigate to a LinkedIn job posting<br>
+      2. Click "Extract & Process Job"<br>
+      3. Wait for the CV and cover letter to generate<br>
+      4. Find documents in your output folder
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
